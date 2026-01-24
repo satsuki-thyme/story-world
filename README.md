@@ -11,6 +11,10 @@
 - world-1/settings/subject.yml:        個別の主体
 - world-1/settings/things.yml:         物事
 
+#### その他
+
+- world-1/etc/management.md: 作業管理
+
 #### 思考ノート
 
 - world-1/thinking-notes/thi-001.md: 魔法の行使を阻害するアイテム
