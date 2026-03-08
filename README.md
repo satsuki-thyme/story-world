@@ -28,3 +28,8 @@
 - world-1/thinking-notes/thi-009.md: 国の設定
 - world-1/thinking-notes/thi-010.md: 王宮
 - world-1/thinking-notes/thi-011.md: 魔法
+- world-1/thinking-notes/thi-012.md: 反精霊
+- world-1/thinking-notes/thi-013.md: 精霊
+- world-1/thinking-notes/thi-014.md: 神
+- world-1/thinking-notes/thi-015.md: 統合精神界
+- world-1/thinking-notes/thi-016.md: 対反精霊アンチマジック
