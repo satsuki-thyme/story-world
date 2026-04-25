@@ -34,3 +34,4 @@
 - world-1/thinking-notes/thi-015.md: 統合精神界
 - world-1/thinking-notes/thi-016.md: 対反精霊アンチマジック
 - world-1/thinking-notes/thi-017.md: 反精霊魔法の特徴
+- world-1/thinking-notes/thi-018.md: 妖精
