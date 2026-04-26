@@ -1,15 +1,21 @@
 # 魔法
+
+
 - item:
   name: 
+  keyword: 
   description: 
+  lineage: 
   applicable op: 
   gist:
-    -
+    !
 
 
 - item:
-  name: ヴェルド
+  name: 
+  keyword: ヴェルド
   description: 筋力低下
+  lineage: 
   applicable op: 74
   gist:
     手元と相手の足下に魔法陣が広がる
@@ -18,8 +24,30 @@
 
 
 - item:
+  name: 
+  keyword: 思いは共に
+  description: 偲月草の花を妖精の治療に使うために採取する
+  lineage: 精霊魔法
+  applicable op: 65
+  gist:
+    偲月草の精霊と契約して行使する
+
+
+- item:
+  name: 
+  keyword: 月よ、影を癒やせ
+  description: 妖精の怪我を治療する
+  lineage: 精霊魔法
+  applicable op: 65
+  gist:
+    偲月草の精霊と契約し、偲月草の花とともに魔法を行使することで妖精の怪我を治療することができる
+
+
+- item:
   name: 魔法禁縛
+  keyword: 
   description: 魔法を使えなくする
+  lineage: 
   applicable op: 72
   gist:
     対象者を魔法の使えない状態にする
@@ -29,7 +57,9 @@
 
 - item:
   name: 魔法力搾奪
+  keyword: 
   description: 魔法力ドレイン
+  lineage: 
   applicable op: 72
   gist:
     対象者の魔法力を奪って自らのものとする
