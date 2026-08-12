@@ -1,0 +1,13 @@
+{
+    "highlight.regexes": {
+        "(エクアレート)": {
+            "comment": "素材",
+            "filterLanguageRegex": "text|markdown|yaml",
+            "decorations": [
+                {
+                    "textDecoration": "2px underline #6dee31"
+                }
+            ]
+        }
+    }
+}
