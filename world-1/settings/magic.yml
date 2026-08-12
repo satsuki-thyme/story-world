@@ -34,6 +34,16 @@
 
 
 - item:
+  name: ゲルムドレイヒ
+  keyword: 
+  description: エクアレートを加工可能なレベルまで軟化させる
+  lineage: ドワーフの魔法
+  applicable op: 78
+  gist:
+    ドワーフの至宝
+
+
+- item:
   name: 
   keyword: 月よ、影を癒やせ
   description: 妖精の怪我を治療する
