@@ -5,7 +5,7 @@
             "filterLanguageRegex": "text|markdown|yaml",
             "decorations": [
                 {
-                    "textDecoration": "2px underline #6dee31"
+                    "textDecoration": "1px underline #6dee31"
                 }
             ]
         }

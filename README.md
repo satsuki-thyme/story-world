@@ -8,6 +8,7 @@
 
 - world-1/settings/deity-or-god.ods: 神族
 - world-1/settings/magic.yml:        魔法
+- world-1/settings/money.yml:        金銭
 - world-1/settings/subject.yml:      個別の物事
 - world-1/settings/things.yml:       物事
 - world-1/settings/world.png:        世界図
