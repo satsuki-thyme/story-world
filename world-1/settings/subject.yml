@@ -1,5 +1,14 @@
 # 個別の物事
 
+- item group: 飲食物
+  contents:
+
+    - item: 蜜精乳
+      contents:
+        ローヤルゼリーから想起
+        蜜精霊が花の蜜や花粉から魔法で作り出す貴重な乳状液
+        苦くえぐみが強いが滋養強壮に高い効果を発揮する
+
 - item group: 鉱物
   contents:
 
