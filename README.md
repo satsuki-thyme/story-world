@@ -38,3 +38,7 @@
 - world-1/idea-notes/ide-016.md: 対反精霊アンチマジック
 - world-1/idea-notes/ide-017.md: 反精霊魔法の特徴
 - world-1/idea-notes/ide-018.md: 妖精
+
+#### 思考ノート
+
+- world-1/thinking-notes/thi-001.md: 幻界の精神体について
