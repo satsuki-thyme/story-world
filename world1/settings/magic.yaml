@@ -1,0 +1,94 @@
+- legend:
+
+  ability bestower:
+    description: |
+      blank
+    collection:
+      deity:
+        - 鍛冶神
+        - 聖神
+      spirit:
+        - 火精霊
+        - 風精霊
+        - 水精霊
+        - 地精霊
+
+  attributes:
+    description: |
+      blank
+    collection:
+      - 火（温・乾）
+      - 風（温・湿）
+      - 水（冷・湿）
+      - 地（冷・乾）
+
+  area type:
+    description: |
+      魔法発現点から相手を結ぶ直線を法線とする面に対する形状。またはその他の指定方法による対象。
+    collection:
+      - 点
+      - 線
+      - 面
+      - 空間
+      - 客体（1～any）
+
+- name: blank
+  word: blank
+  ability bestower:
+    - blank
+  attributes:
+    - 火
+    - 風
+    - 水
+    - 地
+  range type: blank
+  effect: |
+    blank
+  usage: |
+    blank
+  staging: |
+    blank
+  description: |
+    blank
+  op:
+    - blank
+
+- name: ゲルムドレイヒ
+  word: ゲルムドレイヒ
+  ability bestower:
+    - 鍛冶神
+  attributes:
+    - 地
+  range type: 
+  effect: |
+    エクアレートを加工可能なレベルまで軟化させる。
+  usage: |
+    blank
+  staging: |
+    blank
+  description: |
+    ドワーフの魔法。
+    ドワーフの至宝。
+  op:
+    - 
+
+- name: blank
+  word: ディオロアーヴ゠ツェスク――ロンデファイス゠ネスク――アストフェント゠セスク――エルザ・エルゼ・エライズ
+  ability bestower:
+    - 聖神
+  attributes:
+    - 火
+    - 風
+    - 水
+    - 地
+  range type: 客体
+  effect: |
+    心身すべての異常から回復させる。
+  usage: |
+    対象の直上に魔法発現点を設定して行使する。
+  staging: |
+    対象から白い光の柱が立ち上がり、対象を薄い光の幕が包み込み、認識不可能な状態遷移が発生する。
+  description: |
+    blank
+  op:
+    - 83
