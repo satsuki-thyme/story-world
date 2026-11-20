@@ -42,4 +42,3 @@
 #### 思考ノート
 
 - world1/notes/thinking-notes/thi-001.md: 幻界の精神体について
-- world1/notes/thinking-notes/thi-002.md: 鍵言について
